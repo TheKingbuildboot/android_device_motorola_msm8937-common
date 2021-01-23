@@ -71,6 +71,10 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor \
     libwui
 
+# Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.5-service
 
